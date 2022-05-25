@@ -1,3 +1,3 @@
 # Memory-Card-Game-
 
-A memory card game to be run in the terminal
+A memory card game run in the terminal
